@@ -1,0 +1,13 @@
+html{
+    font-size: 0.9rem;
+}
+
+body{
+    width: 1920px;
+}
+
+#header a{
+    display: block;
+}
+
+

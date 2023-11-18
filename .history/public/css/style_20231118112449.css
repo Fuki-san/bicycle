@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+html{
+    font-size: 100%;
+}
+
+body{
+    font-size: 0.9rem;
+    color: #383e45;
+}
+
+img{
+    max-width: 100%;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.site-title a{
+    display: block;
+}
+
+.section-title{
+    display: inline-block;
+    font-size: 2rem;
+    border-bottom: 1px #383e45;
+    margin-bottom: 60px;
+}
+

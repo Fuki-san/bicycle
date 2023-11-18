@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+html{
+    font-size: 100%;
+}
+
+body{
+    font-size: 0.9rem;
+    color: #383e45;
+}
+
+img{
+    max-width: 100%;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.site-title a{
+    display: block;
+}
+
+.section-title{
+    display: inline-block;
+    font-size: 2rem;
+    border-bottom: solid 1px #383e45;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.content-title{
+    font-size: 1rem;
+    margin: 10px 0;
+}
+
+.wrapper{
+    margin: 0 auto 100px auto;
+    padding: ;
+}
+

@@ -1,0 +1,45 @@
+html{
+    font-size: 0.9rem;
+}
+
+body{
+    width: 1920px;
+}
+
+#header a{
+    display: block;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+.section-title{
+    font-size: 2rem;
+    text-align: center;
+    border-bottom: solid 1px black;
+    display: inline-block;
+}
+
+.content-title{
+    font-size: 1.3rem;
+    text-align: center;
+
+}
+
+.site-title{
+    width: 100px;
+    height: 100px;
+}
+
+#mainvisual{
+    width: ;
+}

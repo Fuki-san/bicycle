@@ -1,0 +1,20 @@
+body{
+    width: 960px;
+    padding: 0% 4%;
+}
+
+#mainvisual{
+    height: 600px;
+}
+
+#about{
+    
+}
+
+#bicycle {
+
+}
+
+#bicycle ul{
+    display: flex;
+}
